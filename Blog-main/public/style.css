@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Kaushan+Script&family=Open+Sans&family=Roboto:wght@100;300;500;700;900&family=Ubuntu&family=Varela&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Varela', sans-serif;
+   scroll-behavior: smooth;
+}
+.link{
+    text-decoration: none;
+    color: inherit;
+}
